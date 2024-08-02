@@ -1,1 +1,1 @@
-BookBot is my first project!
+BookBot is a practice on Python project.
